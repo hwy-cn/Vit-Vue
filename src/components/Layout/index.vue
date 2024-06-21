@@ -1,6 +1,6 @@
-<script lang=""></script>
+<script setup></script>
 
-<template lang="">
+<template>
   <div></div>
 </template>
 
